@@ -64,7 +64,7 @@ mkdir msa
 
 # 2. Move msa file into msa directory
 
-mv msa.fasta ./phylo/msa
+mv ../msa.fasta ./msa
 
 
 # 3. Verify if the file was moved
