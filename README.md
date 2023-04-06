@@ -29,6 +29,7 @@ git clone https://github.com/mmid-bioinformatics-workshop/2023-04-06-Beginner-s-
 
 ## Required conda packages
 
+- iqtree
 
 ---
 
