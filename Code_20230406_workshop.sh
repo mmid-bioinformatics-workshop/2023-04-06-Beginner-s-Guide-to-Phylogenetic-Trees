@@ -75,6 +75,7 @@ ls
 
 # 4. Activate conda environment that contains the iqtree package (conda_workshop) if not activated already
 
+conda activate conda_workshop # or
 source activate conda_workshop
 
 
