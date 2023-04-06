@@ -58,12 +58,13 @@ conda list
 
 # 1. Make a directory in Phylo called msa
 
+cd phylo
 mkdir msa
 
 
 # 2. Move msa file into msa directory
 
-mv msa.fasta ./msa
+mv msa.fasta ./phylo/msa
 
 
 # 3. Verify if the file was moved
